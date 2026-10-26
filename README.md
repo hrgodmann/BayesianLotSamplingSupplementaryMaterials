@@ -1,5 +1,7 @@
 # Bayesian Lot Sampling: Supplementary Materials
 
-R code, simulated example data, and model-validation materials accompanying our primer on Bayesian acceptance sampling using state-space models.
+Appendix A (Extended results), Appendix B (Model validation following the principled Bayesian workflow), R code, and simulated data, accompanying our primer on Bayesian acceptance sampling using state-space models.
 
-The materials are being prepared and will be added here.
+
+
+
